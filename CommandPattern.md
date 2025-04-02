@@ -9,15 +9,7 @@ It's like writing down an order — instead of doing it immediately, you store i
 
 ## 🍳 Cooking Analogy
 
----
-layout: default
----
-
-<video width="640" height="360" controls>
-  <source src="/Design-patterns/videos/commandPattern-cookinganalogy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Watch Command Pattern Cooking Analogy Video](./videos/commandPattern-cookinganalogy.mp4)
 
 
 In a restaurant:
