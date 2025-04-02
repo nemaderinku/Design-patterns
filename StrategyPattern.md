@@ -3,7 +3,7 @@
 Tired of messy if-else chains? In this guide, we’ll clean up a cluttered block of logic using the **Strategy Pattern** — explained through two analogies. Choose your flavor:
 
 > 🔀 Jump to your favorite analogy:  
-> - [🍳 Cooking Analogy](#cooking-analogy)  
+> - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StrategyPattern.md#-cooking-analogy)
 > - [🚗 Car Analogy](#car-analogy)
 
 ---
