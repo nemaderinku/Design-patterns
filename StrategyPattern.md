@@ -81,7 +81,9 @@ public class Kitchen {
 }
 ```
 Grilling the food to perfection 🔥
+
 Baking the dish until golden and crispy 🍞
+
 Frying with sizzling oil 🍳
 
 
