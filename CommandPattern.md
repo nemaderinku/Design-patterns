@@ -8,6 +8,12 @@ It's like writing down an order — instead of doing it immediately, you store i
 
 
 ## 🍳 Cooking Analogy
+
+<video width="640" height="360" controls>
+  <source src="videos/commandPattern-cookinganalogy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 In a restaurant:
 
 1. The Customer makes a request (e.g., "Make Pasta")
@@ -17,7 +23,7 @@ In a restaurant:
 3. The Chef executes the order
 
 <I> Basically decoupling</I>
-<video controls src="videos/commandPattern-cookinganalogy.mp4" title="Title"></video>
+
 
 ```Java
 
