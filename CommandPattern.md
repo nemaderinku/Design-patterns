@@ -9,7 +9,7 @@ It's like writing down an order — instead of doing it immediately, you store i
 
 ## 🍳 Cooking Analogy
 
-[Watch Command Pattern Cooking Analogy Video](./videos/commandPattern-cookinganalogy.mp4)
+<img src="./videos/DcommandPattern-cookinganalogy.gif" width="400" alt="Command Pattern Demo">
 
 
 In a restaurant:
