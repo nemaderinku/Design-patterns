@@ -17,7 +17,7 @@ In a restaurant:
 3. The Chef executes the order
 
 <I> Basically decoupling</I>
-<video controls src="commandPattern-cookinganalogy.mp4" title="Title"></video>
+<video controls src="videos/commandPattern-cookinganalogy.mp4" title="Title"></video>
 
 ```Java
 
