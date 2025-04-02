@@ -19,8 +19,7 @@ In a busy restaurant:
 
 4. The chef doesn’t care how many waiters are listening — the message gets broadcast, and everyone reacts independently.
 
-![Command Pattern Cooking Analogy](./Design-patterns/videos/commandPattern-cookinganalogy.gif)
-
+![Command Pattern Cooking Analogy](./videos/observerPattern-cookinganalogy.gif)
 
 ```Java
 public interface Waiter {
