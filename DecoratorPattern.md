@@ -7,7 +7,7 @@
 
 ## 🍳 Cooking Analogy
 Imagine you’re running a burger joint. You start with a base burger, then let customers customize it with toppings — cheese, bacon, lettuce, etc.
-
+<video controls src="DecoratorPattern-cookinganalogy.mp4" title="Title"></video>
 
 ```Java
 public interface Burger {

@@ -19,6 +19,8 @@ In a busy restaurant:
 
 4. The chef doesn’t care how many waiters are listening — the message gets broadcast, and everyone reacts independently.
 
+<video controls src="ObserverPattern-cookinganalogy.mp4" title="Title"></video>
+
 
 ```Java
 public interface Waiter {
