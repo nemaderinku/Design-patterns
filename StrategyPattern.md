@@ -80,11 +80,11 @@ public class Kitchen {
     }
 }
 ```
-Grilling the food to perfection 🔥
+1. Grilling the food to perfection 🔥
 
-Baking the dish until golden and crispy 🍞
+2. Baking the dish until golden and crispy 🍞
 
-Frying with sizzling oil 🍳
+3. Frying with sizzling oil 🍳
 
 
 ## 🚗 Car Analogy
@@ -146,11 +146,11 @@ public class Dashboard {
 }
 
 ```
-Sport Mode – fast acceleration and tight handling 🏎️
+1. Sport Mode – fast acceleration and tight handling 🏎️
 
-Eco Mode – smooth and fuel-efficient 🚗
+2. Eco Mode – smooth and fuel-efficient 🚗
 
-Comfort Mode – relaxed driving experience 🛋️
+3. Comfort Mode – relaxed driving experience 🛋️
 
 
 ### 💡 Why Strategy Pattern Rocks
