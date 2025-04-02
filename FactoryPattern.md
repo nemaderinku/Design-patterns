@@ -5,7 +5,7 @@ The Factory Pattern is your shortcut to clean, scalable object creation — and 
 
 > 🔀 Jump to your favorite analogy:  
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/FactoryPattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/FactoryPattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/FactoryPattern.md#-car-analogy)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔀 Jump to your favorite analogy:  
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/DecoratorPattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/DecoratorPattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/DecoratorPattern.md#-car-analogy)
 
 
 ## 🍳 Cooking Analogy

@@ -4,7 +4,7 @@ The State Pattern lets an object change its behavior when its internal state cha
 
 > 🔀 Jump to your favorite analogy:  
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StatePattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StatePattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StatePattern.md#-car-analogy)
 
 
 ## 🍳 Cooking Analogy

@@ -3,7 +3,7 @@
 ### It’s like saying, “Hey, something changed — just letting everyone know!”
 Pick your favorite analogy:
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/ObserverPattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/ObserverPattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/ObserverPattern.md#-car-analogy)
 
 
 ## 🍳 Cooking Analogy

@@ -4,7 +4,7 @@ Tired of messy if-else chains? In this guide, we’ll clean up a cluttered block
 
 > 🔀 Jump to your favorite analogy:  
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StrategyPattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StrategyPattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/StrategyPattern.md#-car-analogy)
 
 ---
 

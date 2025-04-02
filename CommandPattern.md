@@ -4,7 +4,7 @@ It's like writing down an order — instead of doing it immediately, you store i
 
 > 🔀 Jump to your favorite analogy:  
 > - [🍳 Cooking Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/CommandPattern.md#-cooking-analogy)
-> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/CommandPattern.md#-cooking-analogy)
+> - [🚗 Car Analogy](https://github.com/nemaderinku/Design-patterns/blob/main/CommandPattern.md#-car-analogy)
 
 
 ## 🍳 Cooking Analogy
